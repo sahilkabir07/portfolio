@@ -1,12 +1,35 @@
-# React + Vite
+# 🚀 Sahil Akhtar - Developer Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my personal developer portfolio website! I'm **Sahil Akhtar**, a full-stack web developer passionate about building interactive, modern, and responsive web applications. This portfolio showcases my skills, featured projects, and resume — all styled with a sleek, user-friendly interface.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🌐 Live Demo
 
-## Expanding the ESLint configuration
+👉 [Visit Portfolio Live](https://portfolio-ten-woad-16.vercel.app/)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 💼 Tech Stack
+
+- **Frontend Framework:** React 19  
+- **Styling:** Tailwind CSS 4  
+- **Animations:** Framer Motion  
+- **Icons:** React Icons  
+- **Tooling:** Vite (for fast builds and hot reload)
+
+---
+
+## ✨ Features
+
+- ⚛️ Built using the latest React features
+- 💨 Tailwind CSS for fast and responsive UI design
+- 🎞️ Smooth animations with Framer Motion
+- 📱 Mobile-friendly and fully responsive
+- 🧩 Component-based clean architecture
+- 📝 Integrated resume section
+- 📬 Contact section with working form (optional backend)
+
+---
+
+Thanks for visiting! 🙌
