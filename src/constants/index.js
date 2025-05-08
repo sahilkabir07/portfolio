@@ -1,5 +1,5 @@
 import project1 from "../assets/projects/puma-collage.jpg";
-import project2 from "../assets/projects/etm-collage.jpg";
+import project2 from "../assets/projects/etm-collage (1).jpg";
 import project3 from "../assets/projects/js-collage.jpg";
 
 export const HERO_CONTENT = `A full-stack web developer who loves building things that look good and work even better.
