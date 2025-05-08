@@ -2,7 +2,6 @@ import React from 'react'
 import { PROJECTS } from "../constants/index"
 import { motion } from "framer-motion"
 import { FaGithub } from 'react-icons/fa'
-import { SiVercel } from 'react-icons/si'
 
 const Projects = () => {
     return (
